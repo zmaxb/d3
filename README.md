@@ -5,7 +5,8 @@
 The project is currently in active private development.  
 This repository serves as a public project page for the project concept, screenshots, development notes, and release information.
 
-<img width="1915" height="958" alt="d3" src="https://github.com/user-attachments/assets/e07a7dd0-bb20-49bb-a928-82e29f9af4e0" />
+<img width="1917" height="955" alt="d3" src="https://github.com/user-attachments/assets/b454812b-aa07-4236-b7a6-d820aaba2665" />
+
 ---
 
 ## Project Idea
